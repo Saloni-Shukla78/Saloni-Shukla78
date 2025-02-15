@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding.
 - 🌱 I’m currently learning Machine Learning.
 - 💞️ I’m looking to collaborate on Full Stack Development.
-- 📫 How to reach me via LinkedIn.
+- 📫 Reach me via LinkedIn.
 - 😄 Pronouns: Her
 
 <!---
